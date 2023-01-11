@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1673278214 source:d:\mandisa\codeblocks\share\c projects\data types\main.c
+	<stdio.h>
+	<stdlib.h>
+
