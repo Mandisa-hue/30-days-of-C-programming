@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1673641252 source:d:\mandisa\codeblocks\share\c projects\getting user input\main.c
+	<stdio.h>
+	<stdlib.h>
+
